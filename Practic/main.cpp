@@ -352,8 +352,6 @@ void main()
 	}
 	cout << endl;
 #endif // RANGE_BASED_LIST
-
-
 }
 
 /*
